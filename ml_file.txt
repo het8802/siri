@@ -1,0 +1,25 @@
+
+words =7{    
+    talking_to_siri_words : [you, your, siri]
+    noise_situation : [there is so much noise, noise around me, energy threshold, not able to hear, cant hear you]
+    negation : [not, do not, don't]
+    open_website : [internet, .com, website]
+    exit_status : [exit, quit, escape]
+    ques_list : [how, when, what, where, which, who, why, should, search]
+    photo : [picture, photograph, photo, image]
+}
+
+about_siri =13{
+   birthday : on eighth of august
+   mood : pleasent and jolly
+   work : to serve you
+   name : wovlene
+   age : few months
+   are you mad : I think that I am perfectly alright. all my nuts and bolts are perfectly screwed.
+   how are you : I am in a good mood and not using much ram at the moment. All thanks to the creators code!
+   what can you do : can perform all your technical queries
+   favourite person : My creator that is Het.
+   food : is battery and ram
+   favourite place : Argentina
+   favourite task : searching somethimg for you
+}
